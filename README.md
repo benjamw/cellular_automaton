@@ -1,5 +1,4 @@
-# cellular_automaton
-Elementary Cellular Automaton
+# Elementary Cellular Automaton
 
 https://en.wikipedia.org/wiki/Elementary_cellular_automaton
 
